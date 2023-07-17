@@ -8,3 +8,7 @@
     - git branch grupal5
     - git pull origin grupal5
 - Listo!!! ya tienes el grupal5 del módulo 5 del Bootcamp Java Full Stack.
+
+
+
+... pero si te avisa luego de hacer git pull... que tienes elementos sin hacer "merge"?
